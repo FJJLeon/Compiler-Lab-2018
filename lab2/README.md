@@ -1,4 +1,4 @@
-## Lab2: Lexical Analysis
+## Lab2: Lexical Analysis 词法分析
 
 ### Description
 Use Lex to implement a lexical analyzer for the Tiger language. Appendix A describes, among other things, the lexical tokens of Tiger.
@@ -10,7 +10,7 @@ Along with the tiger.lex file you should turn in documentation for the following
 * end-of-file handling;
 * other interesting features of your lexer.
 
-**Notice**: Before you start this lab, you should carefully read the chapter 2 of the textbook, and you may need to get some help from the [lex manual](http://dinosaur.compilertools.net/lex/index.html) and the *Tiger Language Reference Manual* (Appendix A). As usual, if you have any question about this lab, feel free to contact Haoyu Li, who is the teaching assistant responsible for lab 2.
+**Notice**: Before you start this lab, you should carefully read the chapter 2 of the textbook, and you may need to get some help from the [lex manual](http://dinosaur.compilertools.net/lex/index.html) and the *Tiger Language Reference Manual* (Appendix A).
 
 **Update**: We have added an extra testcase named as **testcases/test52.tig** and the corresponding output named as **refs/test52.out** to test escape sequences.
 
