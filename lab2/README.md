@@ -2,7 +2,9 @@
 
 ### Description
 Use Lex to implement a lexical analyzer for the Tiger language. Appendix A describes, among other things, the lexical tokens of Tiger.
+
 This chapter has left out some of the specifics of how the lexical analyzer should be initialized and how it should communicate with the rest of the compiler. You can learn this from the Lex manual, but the “skeleton” files in the lab directory will also help get you started.
+
 Along with the tiger.lex file you should turn in documentation for the following point:
 * how you handle comments;
 * how you handle strings;
